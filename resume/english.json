@@ -149,7 +149,8 @@
         "Unit Testing",
         "Integration Testing",
         "Performance Testing",
-        "Domain-Driven Design"
+        "Domain-Driven Design",
+        "Trunk based development"
       ]
     },
     {
