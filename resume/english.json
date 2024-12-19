@@ -25,15 +25,17 @@
       "endDate": "Present.",
       "employment": "Full-time",
       "summary": [
-        "I worked on diverse projects across various industries, collaborating with stakeholders to gather requirements, refine them into actionable user stories, and implement features following industry best practices. My role emphasized maintaining system integrity, fostering knowledge exchange across teams, and breaking down complex challenges through events like event storming. I contributed to multiple projects ranging from modernizing legacy systems to building microservices for Automotive giants within the logistics domain. Leveraging technologies such as Kotlin, Spring Boot, and AWS, I ensured solutions were scalable, reliable, and adhered to clean code principles."],
+        "I worked on diverse projects across various industries, collaborating with stakeholders to gather requirements, refine them into actionable user stories, and implement features following industry best practices. My role emphasized maintaining system integrity, fostering knowledge exchange across teams, and breaking down complex topics through events like event storming. I contributed to multiple projects ranging from modernizing legacy systems for banks, creating state of the art logistic solutions for Automotive giants and working on realtime Car Auction platforms, to name a few. Leveraging technologies such as Kotlin, Spring Boot, and AWS, I ensured solutions were scalable, reliable, and adhered to clean code principles."],
       "highlights": [
-        "Designed and implemented features in Kotlin and Java for microservices architectures in logistics and IoT.",
-        "Gathered requirements from stakeholders and translated them into actionable user stories.",
-        "Engaged in cross-team knowledge sharing and participated in event storming sessions.",
-        "Maintained legacy systems hosted on IBM WebSphere and contributed to modernization efforts.",
-        "Implemented solutions for CI/CD pipelines, leveraging Kubernetes, HELM, and containerized environments.",
-        "Optimized service communication in distributed environments hosted on AWS and Azure.",
-        "Streamlined development processes, ensuring clean code, TDD, and seamless integration."
+        "Supported backend development with a focus on networking and containerized environments",
+        "Focused on streamlining development and ensuring system stability.",
+        "Addressed challenges in maintaining clean code, applying TDD, and ensuring seamless integration and delivery.",
+        "Ensured scalability and maintainability while following best practices in feature implementation.",
+        "Maintained architectural integrity and optimized service communication within Azure and AWS-hosted environments.",
+        "Overcame legacy system constraints in Java-based applications hosted on IBM WebSphere",
+        "Addressed integration challenges in a structured monolith environment with external service communication",
+        "Solved complexities in a microservice architecture using standards for EDI communication.",
+        "Tackled IoT-specific challenges, including device connectivity"
       ]
     },
     {
@@ -45,9 +47,9 @@
       "employment": "Full-time",
       "summary": "I contributed to the development and maintenance of financial and banking applications, focusing on SEPA compliance and transaction processing. My responsibilities included creating SQL procedures, developing front-end and back-end modules, implementing REST APIs, and ensuring data integrity through robust validation processes. I collaborated with senior developers to deliver new features and provided ongoing customer support to ensure seamless application functionality.",
       "highlights": [
-        "Implemented REST APIs and front-end interfaces for financial systems.",
-        "Addressed challenges in XML transaction packaging and input validation.",
-        "Ensured seamless user functionality in banking systems."
+        "Developed and maintained modules for financial transaction processing, including REST APIs and front-end interfaces",
+        "Implemented SQL procedures, data migrations, and persistence jobs to comply with SEPA regulations.",
+        "Addressed challenges in XML transaction packaging, input validation, and ensuring seamless user functionality in banking systems"
       ]
     }
   ],
