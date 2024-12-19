@@ -1,0 +1,14 @@
+{
+  "name": "jsonresume-theme-fresh",
+  "version": "0.0.3",
+  "description": "Fresh theme for JSON Resume",
+  "author": "Tair Assimov",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/assimovt/jsonresume-theme-fresh"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^2.0.0-alpha.4"
+  }
+}
