@@ -1,15 +1,18 @@
-{{#if resume.interests.length}}
-<section id="interests">
+{{#if resume.skills.length}}
+<section id="skills">
   <div class="left">
-    <h2>Interests</h2>
+    <h2>Fähigkeiten</h2>
   </div>
 
   <div class="right">
-    {{#each resume.interests}}
+    {{#each resume.skills}}
     <div class="item">
       {{#if name}}
       <span class="name">
         {{name}}
+        {{#if level}}
+        <em class="level">{{level}}</em>
+        {{/if}}
       </span>
       {{/if}}
       {{#if keywords.length}}

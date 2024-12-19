@@ -1,0 +1,279 @@
+{
+  "basics": {
+    "name": "Petar Prole",
+    "website": "https://github.com/perororo",
+    "label": "Senior Softwareentwickler",
+    "summary": [
+      "Erfahrener Softwareentwickler mit einer nachweislichen Erfolgsbilanz bei der Bereitstellung wirkungsvoller Lösungen für namhafte Kunden in verschiedenen Branchen wie Banken, Automobilindustrie und Logistik. Leidenschaftlich engagiert für die Entwicklung robuster, skalierbarer und wartungsfreundlicher Systeme unter Einhaltung von Architektur- und Clean-Code-Best-Practices. Ein starker Kommunikator und Teamplayer, der es versteht, Kundenbedürfnisse zu erkennen und sie in innovative, qualitativ hochwertige Lösungen umzusetzen, die Erwartungen übertreffen. Strebt kontinuierlich nach beruflicher Weiterentwicklung und betrachtet Herausforderungen als Chancen, um Exzellenz zu erreichen.",
+      "Ab 2025 biete ich meine Dienstleistungen über mein eigenes Unternehmen an, was meine Anpassungsfähigkeit, meinen Unternehmergeist und mein Engagement für die weltweite Bereitstellung von IT-Dienstleistungen unterstreicht."
+    ],
+    "phone": "+385959055376",
+    "email": "petarprole@gmail.com",
+    "picture": true,
+    "location": {
+      "postalCode": "1080",
+      "city": "Wien",
+      "countryCode": "AT"
+    }
+  },
+  "work": [
+    {
+      "company": "Comsysto Reply GmbH",
+      "website": "https://comsystoreply.de",
+      "position": "Senior Entwickler",
+      "startDate": "Mai 2017",
+      "endDate": "Gegenwärtig",
+      "employment": "Vollzeit",
+      "summary": [
+        "Ich habe an verschiedenen Projekten in unterschiedlichen Branchen gearbeitet, mit Stakeholdern zusammengearbeitet, um Anforderungen zu sammeln, sie in umsetzbare User Stories zu übersetzen und Features nach Branchenstandards zu implementieren. Meine Rolle legte besonderen Wert auf die Systemintegrität, den Wissensaustausch zwischen Teams und die Lösung komplexer Herausforderungen durch Methoden wie Event Storming. Ich habe zu zahlreichen Projekten beigetragen, von der Modernisierung von Altsystemen bis hin zum Aufbau von Microservices für Automobilriesen im Logistikbereich. Mit Technologien wie Kotlin, Spring Boot und AWS sorgte ich dafür, dass die Lösungen skalierbar, zuverlässig und sauber codiert waren."
+      ],
+      "highlights": [
+        "Entwicklung und Implementierung von Features in Kotlin und Java für Microservices-Architekturen in Logistik und IoT.",
+        "Anforderungen von Stakeholdern gesammelt und in umsetzbare User Stories übersetzt.",
+        "Teilnahme am Wissensaustausch zwischen Teams und an Event-Storming-Sitzungen.",
+        "Wartung von Altsystemen auf IBM WebSphere und Beiträge zu Modernisierungsprojekten.",
+        "Umsetzung von CI/CD-Lösungen unter Nutzung von Kubernetes, HELM und containerisierten Umgebungen.",
+        "Optimierung der Dienstkommunikation in verteilten Umgebungen auf AWS und Azure.",
+        "Vereinfachung von Entwicklungsprozessen unter Sicherstellung von Clean Code, TDD und nahtloser Integration."
+      ]
+    },
+    {
+      "company": "TIS GRUPA d.o.o.",
+      "website": "https://tis-grupa.com/en/",
+      "position": "Junior Entwickler",
+      "startDate": "Mai 2017",
+      "endDate": "Gegenwärtig",
+      "employment": "Vollzeit",
+      "summary": "Ich habe zur Entwicklung und Wartung von Finanz- und Bankanwendungen beigetragen, mit einem Schwerpunkt auf SEPA-Konformität und Transaktionsverarbeitung. Meine Aufgaben umfassten die Erstellung von SQL-Prozeduren, die Entwicklung von Front-End- und Back-End-Modulen, die Implementierung von REST-APIs und die Sicherstellung der Datenintegrität durch robuste Validierungsprozesse. Ich habe mit Senior-Entwicklern zusammengearbeitet, um neue Features bereitzustellen und kontinuierlichen Kundensupport zu gewährleisten, um eine reibungslose Anwendungsfunktionalität zu garantieren.",
+      "highlights": [
+        "Implementierung von REST-APIs und Front-End-Oberflächen für Finanzsysteme.",
+        "Lösung von Herausforderungen bei XML-Transaktionspaketen und Eingabevalidierungen.",
+        "Sicherstellung einer nahtlosen Benutzerfunktionalität in Bankensystemen."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "company": "Comsysto @Audi Used Car Platform",
+      "name": "Plattform für Gebrauchtwagenauktionen",
+      "description": [
+        "Entwicklung einer Plattform, die Audi ermöglicht, Gebrauchtwagen an Händler zu versteigern.",
+        "Die Anwendung folgt einem strukturierten Monolith-Setup mit Komponenten, die in Kotlin und Java geschrieben wurden,",
+        "und integriert zwei externe Dienste."
+      ],
+      "website": "https://www.audi.co.uk/en/used-car-search/",
+      "keywords": [
+        "Kotlin",
+        "Java",
+        "Monolith-Architektur",
+        "AWS",
+        "Domain-Driven Design"
+      ],
+      "roles": "Senior Entwickler"
+    },
+    {
+      "company": "Comsysto @RIO | The Logistics Flow",
+      "name": "Elektronischer Datenaustausch",
+      "description": [
+        "Entwicklung und Wartung einer mikroservicebasierten EDI-Lösung für die logistische Kommunikation zwischen VW, Lieferanten und Spediteuren.",
+        "Jeder Dienst folgte der hexagonalen Architektur und wurde in Kotlin implementiert, gehostet auf AWS mit logischer Kontentrennung."
+      ],
+      "website": "https://www.rio.cloud",
+      "keywords": [
+        "Kotlin",
+        "AWS",
+        "Hexagonale Architektur",
+        "ArchUnit",
+        "Microservices"
+      ],
+      "roles": "Senior Backend Entwickler"
+    },
+    {
+      "company": "Comsysto @Unicredit",
+      "name": "Anwendungswartung und Entwicklung",
+      "description": [
+        "Verwaltung und Wartung von drei Diensten auf IBM Web Sphere.",
+        "Die Aufgaben umfassten Kundenkommunikation, Anforderungsanalyse, Feature-Entwicklung und Sicherstellung der Anwendungswartung."
+      ],
+      "website": "https://www.unicreditgroup.eu",
+      "keywords": [
+        "Java",
+        "IBM Web Sphere",
+        "Kundenkommunikation",
+        "Feature-Entwicklung"
+      ],
+      "roles": "Senior Entwickler"
+    },
+    {
+      "company": "Comsysto @Device Insight/Bosch",
+      "name": "mec-remote IoT-Anwendung",
+      "description": [
+        "Entwicklung von Backend-Funktionen für eine IoT-Anwendung, die Technikern den Zugriff auf und die Verwaltung von industriellen Heizgeräten ermöglicht.",
+        "Aufteilung des Monolithen in Microservices, Implementierung von Netzwerklösungen mit OpenVPN, Containerisierung der Dienste und Migration einiger Dienste zu Azure."
+      ],
+      "website": "https://www.bosch-industrial.com/global/en/ocs/commercial-industrial/remote-access-mec-remote-669574-p/",
+      "keywords": [
+        "Jetty",
+        "Spring Boot",
+        "Node.js",
+        "OpenVPN",
+        "Azure",
+        "Microservices"
+      ],
+      "roles": "Backend Entwickler"
+    },
+    {
+      "company": "Comsysto @Consorsbank",
+      "name": "Web-Modernisierung",
+      "description": [
+        "Modernisierung einer bestehenden Webplattform mit Angular und Spring Boot 2.x.",
+        "Schwerpunkt auf Backend-Entwicklung, Microservices und CI/CD-Pipelines sowie Unterstützung bei Releases und Wartung."
+      ],
+      "website": "https://www.consorsbank.de",
+      "keywords": [
+        "Java 8",
+        "Spring Boot",
+        "Angular 5",
+        "CI/CD",
+        "TDD",
+        "Pair Programming"
+      ],
+      "roles": "Backend Entwickler"
+    },
+    {
+      "company": "Comsysto @BMW",
+      "name": "Präsentation von Kundenfunktionen",
+      "description": [
+        "Neu-Konfiguration der Spring-Implementierung und Refactoring des Codes, um eine Single-Page-Anwendung für BMW produktionsreif zu machen.",
+        "Einführung von JPA, Transaktionsaufrufen und Entwicklung von Batch-Jobs."
+      ],
+      "website": "https://www.bmw.com",
+      "keywords": [
+        "Java",
+        "Spring Boot",
+        "JPA",
+        "Testing",
+        "Code-Refactoring"
+      ],
+      "roles": "Entwickler"
+    },
+    {
+      "company": "TIS OIS",
+      "name": "SEPA-Lastschriftmodul",
+      "description": "Erstellung von SQL-Prozeduren sowie Implementierung von Tabellen und Jobs zur Unterstützung der SEPA-Lastschriftkonformität für eine Kernbankanwendung.",
+      "website": "https://www.tis.hr",
+      "keywords": [
+        "SQL",
+        "Datenbankdesign",
+        "Datenmigration",
+        "SEPA-Konformität"
+      ],
+      "roles": "Datenbankentwickler"
+    },
+    {
+      "company": "TIS OIS",
+      "name": "R-Transaktionsmodul",
+      "description": [
+        "Entwicklung eines Moduls zur Bearbeitung von R-Transaktionen für FINA, einschließlich Front-End, Back-End, Repositories, REST-Endpunkte und jQuery-basierter UI.",
+        "Wartung und Fehlerbehebung der Anwendung während der Testphase."
+      ],
+      "website": "https://www.fina.hr/eng/financial-services-and-payment-systems/non-cash-payment-transaction/sepa",
+      "keywords": [
+        "Java",
+        "REST",
+        "jQuery",
+        "Modulentwicklung",
+        "Fehlerbehebung"
+      ],
+      "roles": "Full-Stack Entwickler"
+    },
+    {
+      "company": "TIS OIS",
+      "name": "Single Euro Payment Area (SEPA)-System",
+      "description": [
+        "Entwicklung eines Moduls für Banksysteme zur Paketierung von Benutzertransaktionen in XML mit Validierung.",
+        "Bereitstellung neuer Funktionalitäten und täglicher Kundensupport."
+      ],
+      "website": "https://www.fina.hr/eng/financial-services-and-payment-systems/non-cash-payment-transaction/sepa",
+      "keywords": [
+        "Java",
+        "XML",
+        "Transaktionsvalidierung",
+        "Kundensupport"
+      ],
+      "roles": "Entwickler"
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "Fachhochschule Rijeka",
+      "courses": [
+        "Abschlussarbeit: Analyse unstrukturierter Daten"
+      ],
+      "area": "Professioneller Spezialist für IT-Systeme",
+      "startDate": "Okt 2013",
+      "endDate": "Sep 2015"
+    },
+    {
+      "institution": "Fachhochschule Rijeka",
+      "courses": [
+        "Abschlussarbeit: Skalierbarkeit von Hochlastanwendungen: Soziale Netzwerke"
+      ],
+      "area": "Bachelor der Informatik",
+      "startDate": "Okt 2009",
+      "endDate": "Sep 2013"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programmierung",
+      "keywords": [
+        "Java",
+        "Kotlin",
+        "Spring Boot",
+        "TypeScript",
+        "React",
+        "Node.js",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Azure"
+      ]
+    },
+    {
+      "name": "Datenbanken",
+      "keywords": [
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "Redis",
+        "Elasticsearch"
+      ]
+    },
+    {
+      "name": "Methodologien",
+      "keywords": [
+        "Agile",
+        "Scrum",
+        "TDD",
+        "Event Storming",
+        "Domain-Driven Design"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Englisch",
+      "fluency": "Fließend"
+    },
+    {
+      "language": "Deutsch",
+      "fluency": "Fortgeschritten"
+    },
+    {
+      "language": "Kroatisch",
+      "fluency": "Muttersprache"
+    }
+  ]
+}

@@ -1,11 +1,11 @@
-{{#if resume.volunteer.length}}
-<section id="volunteer">
+{{#if resume.work.length}}
+<section id="work">
   <div class="left">
-    <h2>Volunteer</h2>
+    <h2>Erfahrung</h2>
   </div>
 
   <div class="right">
-    {{#each resume.volunteer}}
+    {{#each resume.work}}
     <div class="item">
       <div class="date">
         {{#if startDate}}
@@ -19,13 +19,13 @@
         </span>
         {{else}}
         <span class="endDate">
-          - Present
+          - Heute
         </span>
         {{/if}}
       </div>
-      {{#if organization}}
-      <h3 class="company">
-        {{organization}}
+      {{#if company}}
+      <h3 class="name">
+        {{company}}
       </h3>
       {{/if}}
       {{#if position}}

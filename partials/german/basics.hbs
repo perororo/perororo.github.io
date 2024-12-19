@@ -2,7 +2,7 @@
   <section id="basics">
     <div class="left">
       {{#if picture}}
-        <img class="picture" src="{{picture}}" alt="{{name}} avatar"/>
+        <img class="picture" src="profile.png" alt="{{name}} avatar"/>
       {{else}}
         <img class="picture" src="https://api.adorable.io/avatars/285/{{name}}.png" alt="{{name}} avatar"/>
       {{/if}}
@@ -38,7 +38,7 @@
       <div class="contact">
         {{#if website}}
         <span class="website">
-          <strong>Website: </strong>
+          <strong>Webseite: </strong>
           <a href="{{website}}" target="_blank">{{website}}</a>
         </span>
         {{/if}}
@@ -52,7 +52,7 @@
 
         {{#if phone}}
         <span class="phone">
-          <strong>Phone: </strong>
+          <strong>Telefon: </strong>
           <a href="tel:{{phone}}" target="_blank">{{phone}}</a>
         </span>
         {{/if}}
@@ -75,7 +75,7 @@
   {{#if summary}}
   <section id="summary">
     <div class="left">
-      <h2>Summary</h2>
+      <h2>Überblick</h2>
     </div>
     <div class="right">
       <p>{{summary}}</p>
