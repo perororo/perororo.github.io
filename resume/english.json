@@ -25,7 +25,8 @@
       "endDate": "Present.",
       "employment": "Full-time",
       "summary": [
-        "I worked on diverse projects across various industries, collaborating with stakeholders to gather requirements, refine them into actionable user stories, and implement features following industry best practices. My role emphasized maintaining system integrity, fostering knowledge exchange across teams, and breaking down complex topics through events like event storming. I contributed to multiple projects ranging from modernizing legacy systems for banks, creating state of the art logistic solutions for Automotive giants and working on realtime Car Auction platforms, to name a few. Leveraging technologies such as Kotlin, Spring Boot, and AWS, I ensured solutions were scalable, reliable, and adhered to clean code principles."],
+        "I worked on diverse projects across various industries, collaborating with stakeholders to gather requirements, refine them into actionable user stories, and implement features following industry best practices. My role emphasized maintaining system integrity, fostering knowledge exchange across teams, and breaking down complex topics through events like event storming. I contributed to multiple projects ranging from modernizing legacy systems for banks, creating state of the art logistic solutions for Automotive giants and working on realtime Car Auction platforms, to name a few. Leveraging technologies such as Kotlin, Spring Boot, and AWS, I ensured solutions were scalable, reliable, and adhered to clean code principles."
+      ],
       "highlights": [
         "Supported backend development with a focus on networking and containerized environments",
         "Focused on streamlining development and ensuring system stability.",
@@ -42,8 +43,8 @@
       "company": "TIS GRUPA d.o.o.",
       "website": "https://tis-grupa.com/en/",
       "position": "Junior Developer",
-      "startDate": "May 2017.",
-      "endDate": "Present.",
+      "startDate": "November 2015.",
+      "endDate": "May 2017",
       "employment": "Full-time",
       "summary": "I contributed to the development and maintenance of financial and banking applications, focusing on SEPA compliance and transaction processing. My responsibilities included creating SQL procedures, developing front-end and back-end modules, implementing REST APIs, and ensuring data integrity through robust validation processes. I collaborated with senior developers to deliver new features and provided ongoing customer support to ensure seamless application functionality.",
       "highlights": [
@@ -166,12 +167,245 @@
   ],
   "projects": [
     {
+      "company": "jimp",
+      "name": "Bank",
+      "description": [
+        "Developing multiple services related to car-insurance. ",
+        "Microservice architecture with Java and Spring in the backend and React in the frontend.",
+        "Openshift is used to manage the workloads, whilst Jenkins is used as the pipeline for the services ",
+        "Key responsibilities are:",
+        "- enhance system security and scalability",
+        "- maintaining existing functionality, whilst trying to improve current codebase.",
+        "- developing features for missing products",
+        "- ownership of tasks from development to production"
+      ],
+      "keywords": [
+        "Java",
+        "Spring",
+        "Micro services",
+        "Openshift",
+        "React",
+        "Jenkins"
+      ],
+      "roles": "Senior Developer"
+    },
+    {
       "company": "Comsysto @Audi Used Car Platform",
       "name": "Used Car Auction Platform",
       "description": [
         "Developed a platform enabling Audi to auction used cars to dealers.",
         " The application follows a structured monolith setup with components written in Kotlin and Java,",
-        " and integrates with two external services."
+        " and integrates with two external services.",
+        "Key responsibilities are:",
+        {
+          "basics": {
+            "name": "Petar Prole",
+            "website": "https://github.com/perororo",
+            "label": "Senior Software Engineer",
+            "summary": [
+              "Seasoned Full-Stack Software Engineer with 10+ years of experience designing, building, and scaling enterprise applications across banking, automotive, and logistics industries. Proven ability to deliver secure, performant systems by applying Domain-Driven Design (DDD), Clean Architecture, and CI/CD best practices.",
+              "Adept at leading end-to-end software delivery — from stakeholder engagement and event storming workshops to feature delivery and production monitoring. Strong expertise in Kotlin/Java, Spring Boot, Angular/React, microservice architectures, and cloud platforms (AWS, Azure, OpenShift).",
+              "Frequently act as a technical bridge between business and engineering, driving clarity in requirements and ensuring alignment between technical design and domain needs.",
+              "As of 2025, offering services through my own consultancy, bringing adaptability, a strong sense of ownership, and a product-minded approach to delivering software solutions globally."
+            ],
+            "phone": "+385959055376",
+            "email": "petarprole@gmail.com",
+            "picture": true,
+            "location": {
+              "postalCode": "51557",
+              "city": "Cres",
+              "countryCode": "CRO"
+            }
+          },
+          "work": [
+            {
+              "company": "jimp doo",
+              "position": "Owner",
+              "startDate": "June 2025",
+              "endDate": "Present",
+              "employment": "Full-time",
+              "summary": [
+                "Founder and principal consultant of jimp doo, delivering full-stack software engineering services to enterprise clients.",
+                "Specialize in designing cloud-native, event-driven, and resilient backend systems while supporting cross-functional teams through hands-on leadership and technical mentorship.",
+                "Drive architecture decisions, lead implementation across services and platforms, and act as the key liaison between business stakeholders and development teams."
+              ],
+              "highlights": [
+                "Founded a consultancy focused on scalable, domain-driven software architecture",
+                "Delivered cloud-native solutions using Java, Kotlin, Spring Boot, and React",
+                "Led architecture and implementation of secure, containerized microservices on AWS and OpenShift",
+                "Established robust CI/CD pipelines and DevOps workflows for clients",
+                "Facilitated event storming workshops and defined domain boundaries for new product initiatives",
+                "Mentored developers on clean architecture, test automation, and system design",
+                "Managed client relationships and project roadmaps end-to-end"
+              ]
+            },
+            {
+              "company": "Comsysto Reply GmbH",
+              "website": "https://comsystoreply.de",
+              "position": "Senior Developer",
+              "startDate": "May 2017",
+              "endDate": "Present",
+              "employment": "Full-time",
+              "summary": [
+                "Led cross-functional teams across multiple enterprise-grade projects, translating business needs into scalable and maintainable systems. Spearheaded technical decision-making, promoted engineering best practices, and collaborated closely with stakeholders using techniques like event storming.",
+                "Delivered mission-critical systems for banking, automotive, and logistics sectors using Kotlin, Java, Spring Boot, React, and cloud-native technologies (AWS, Azure)."
+              ],
+              "highlights": [
+                "Owned backend and infrastructure architecture across containerized microservice environments",
+                "Enabled transactional integrity and ACID compliance through Spring-managed transaction boundaries",
+                "Applied clean code, TDD, and continuous delivery practices to ensure long-term maintainability",
+                "Modernized Java-based legacy systems hosted on IBM WebSphere with minimal downtime",
+                "Defined integration strategies between structured monoliths and external services",
+                "Built scalable messaging solutions using Kafka and RabbitMQ in distributed systems",
+                "Led knowledge sharing initiatives and mentored junior developers"
+              ]
+            },
+            {
+              "company": "TIS GRUPA d.o.o.",
+              "website": "https://tis-grupa.com/en/",
+              "position": "Junior Developer",
+              "startDate": "November 2015",
+              "endDate": "May 2017",
+              "employment": "Full-time",
+              "summary": "Contributed to financial and banking software development with a focus on SEPA compliance and robust transaction processing. Developed back-end logic, SQL procedures, RESTful APIs, and collaborated with senior team members to ensure regulatory and functional completeness.",
+              "highlights": [
+                "Developed and maintained transaction modules using Java, REST, and jQuery",
+                "Implemented backend persistence logic for SEPA-compliant systems",
+                "Handled data validation, XML packaging, and customer-facing bug fixes"
+              ]
+            }
+          ],
+          "education": [
+            {
+              "institution": "Polytechnic of Rijeka",
+              "courses": [
+                "graduation thesis: Mining of unstructured data"
+              ],
+              "area": "Professional Specialist in Business IT System",
+              "startDate": "Oct 2013",
+              "endDate": "Sep 2015"
+            },
+            {
+              "institution": "Polytechnic of Rijeka",
+              "courses": [
+                "graduation thesis: Scalability of high load applications: Social networks"
+              ],
+              "area": "Bachelor of Computer Science",
+              "startDate": "Oct 2009",
+              "endDate": "Sep 2013"
+            }
+          ],
+          "skills": [
+            {
+              "name": "Programming Languages",
+              "keywords": [
+                "Java",
+                "Kotlin",
+                "TypeScript",
+                "SQL",
+                "Bash"
+              ]
+            },
+            {
+              "name": "Frameworks & Libraries",
+              "keywords": [
+                "Spring Boot",
+                "Spring Data",
+                "Spring Security",
+                "Angular",
+                "jQuery",
+                "React"
+              ]
+            },
+            {
+              "name": "Testing",
+              "keywords": [
+                "JUnit",
+                "SpringTest",
+                "ArchUnit",
+                "Cucumber",
+                "Gatling",
+                "JMeter"
+              ]
+            },
+            {
+              "name": "Databases",
+              "keywords": [
+                "MySQL",
+                "PostgreSQL",
+                "MongoDB"
+              ]
+            },
+            {
+              "name": "Architectures",
+              "keywords": [
+                "Microservices Architecture",
+                "Hexagonal Architecture",
+                "Monolith-to-Microservice Transition"
+              ]
+            },
+            {
+              "name": "Event-Driven Systems",
+              "keywords": [
+                "Kafka",
+                "RabbitMQ"
+              ]
+            },
+            {
+              "name": "Tools & Platforms",
+              "keywords": [
+                "Jenkins",
+                "GitLab CI/CD",
+                "Docker",
+                "Kubernetes",
+                "AWS",
+                "Azure"
+              ]
+            },
+            {
+              "name": "Practices",
+              "keywords": [
+                "Test-Driven Development",
+                "Pair Programming",
+                "Clean Code Principles",
+                "Unit Testing",
+                "Integration Testing",
+                "Performance Testing",
+                "Domain-Driven Design",
+                "Trunk based development"
+              ]
+            },
+            {
+              "name": "APIs",
+              "keywords": [
+                "RESTful Services",
+                "XML",
+                "JSON"
+              ]
+            }
+          ],
+          "languages": [
+            {
+              "language": "Croatian",
+              "fluency": "Native"
+            },
+            {
+              "language": "German",
+              "fluency": "Full professional proficiency"
+            },
+            {
+              "language": "English",
+              "fluency": "Full professional proficiency"
+            }
+          ]
+        },
+        "- encapsulate business logic within the domain of the application",
+        "- decouple application",
+        "- generify commonly repeated tasks",
+        "- work with the stakeholders to better define the scopes and the goal ",
+        "- oversea a group of junior colleagues",
+        "- developing features for missing products",
+        "- release management"
       ],
       "website": "https://www.audi.co.uk/en/used-car-search/",
       "keywords": [
@@ -179,7 +413,8 @@
         "Java",
         "Monolith Architecture",
         "AWS",
-        "Domain-Driven Design"
+        "Domain-Driven Design",
+        "React"
       ],
       "roles": "Senior Developer"
     },
@@ -188,7 +423,14 @@
       "name": "Electronic Data Interchange",
       "description": [
         "Built and maintained a microservice-based EDI solution for logistics communication between VW, suppliers, and shippers.",
-        " Each service adhered to hexagonal architecture and was implemented in Kotlin, hosted on AWS with logical account separation."
+        "Each service adhered to hexagonal architecture and was implemented in Kotlin, hosted on AWS with logical account separation.",
+        "Key responsibilities are:",
+        "- Develop solutions for highly complex business cases",
+        "- Work across multiple teams to disperse knowledge",
+        "- Automate processes",
+        "- Hold presentations about decisions taken and lessons learned",
+        "- Work closely with stakeholders and other teams to create a Ubiquitous Language",
+        "- Partake in Event Storming meetings"
       ],
       "website": "https://www.rio.cloud",
       "keywords": [
@@ -196,23 +438,31 @@
         "AWS",
         "Hexagonal Architecture",
         "ArchUnit",
-        "Microservices"
+        "Microservices",
+        "React",
+        "Trunk based development",
+        "Pair programming"
       ],
-      "roles": "Senior Backend Developer"
+      "roles": "Senior Developer"
     },
     {
       "company": "Comsysto @Unicredit",
       "name": "Application Maintenance and Development",
       "description": [
         "Managing and maintaining three services on IBM Web Sphere.",
-        " Responsibilities included client communication, gathering requirements, developing features, and ensuring application maintenance."
+        " Responsibilities included client communication, gathering requirements, developing features, and ensuring application maintenance.",
+        "Key responsibilities are:",
+        "- directly available to users for troubleshooting problems",
+        "- directly responsible for 4 core services of the bank",
+        "- mentor junior colleague"
       ],
       "website": "https://www.unicreditgroup.eu",
       "keywords": [
         "Java",
         "IBM Web Sphere",
         "Client Communication",
-        "Feature Development"
+        "Feature Development",
+        "Pair programming"
       ],
       "roles": "Senior Developer"
     },
@@ -221,7 +471,12 @@
       "name": "mec-remote IoT Application",
       "description": [
         "Developed backend features for an IoT application enabling technicians to access and manage industrial heating devices.",
-        " Split monolith into microservices, implemented networking solutions with OpenVPN, containerized the services and moved some of them to Azure."
+        " Split monolith into microservices, implemented networking solutions with OpenVPN, containerized the services and moved some of them to Azure.",
+        "Key responsibilities are:",
+        "- take over application from creator",
+        "- meet QA expectations to make application production ready",
+        "- develop new features",
+        "- directly responsible to users"
       ],
       "website": "https://www.bosch-industrial.com/global/en/ocs/commercial-industrial/remote-access-mec-remote-669574-p/",
       "keywords": [
@@ -230,7 +485,8 @@
         "Node.js",
         "OpenVPN",
         "Azure",
-        "Microservices"
+        "Microservices",
+        "Pair Programming"
       ],
       "roles": "Backend Developer"
     },
@@ -239,7 +495,12 @@
       "name": "Web Modernization",
       "description": [
         "Modernized an existing web platform using Angular and Spring Boot 2.x.",
-        "Focused on backend development, microservices, and CI/CD pipelines while supporting releases and maintenance."
+        "Focused on backend development, microservices, and CI/CD pipelines while supporting releases and maintenance.",
+        "Key responsibilities are:",
+        "- Implement service security",
+        "- Implement new features for products",
+        "- Support",
+        "- Closely work with QA to set testing benchmarks"
       ],
       "website": "https://www.consorsbank.de",
       "keywords": [
@@ -257,13 +518,18 @@
       "name": "Customer Features Presentation",
       "description": [
         "Reconfigured Spring implementation and refactored code to make a single-page application production-ready for BMW.",
-        "Introduced JPA, transactional calls, and wrote batch jobs."
+        "Introduced JPA, transactional calls, and wrote batch jobs.",
+        "Key responsibilities are:",
+        "- Help team get application production ready",
+        "- Designed and implemented transaction management using Spring to ensure ACID principles across critical operations "
       ],
       "website": "https://www.bmw.com",
       "keywords": [
         "Java",
         "Spring Boot",
         "JPA",
+        "Bash",
+        "Vaadin",
         "Testing",
         "Code Refactoring"
       ],
